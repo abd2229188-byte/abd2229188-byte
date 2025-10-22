@@ -2,7 +2,7 @@
 I'm a **Cybersecurity & Networking student** passionate about network security, Linux, and ethical hacking.  
 This GitHub page is my **portfolio**, where I share my projects and learning progress.
 ## 🧩 Projects
-### 🔹 [My Network Project](https://github.com/abd2229188-byte/my-network-project)
+### 🔹 https://github.com/abd2229188-byte/my-network-project-
 - 3-router topology built in Cisco Packet Tracer  
 - Configured routers, switches, and PCs for full LAN-to-LAN communication  
 - Includes all configuration files and topology diagram  
